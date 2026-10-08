@@ -1,0 +1,10 @@
+[
+  {
+    "user": "Where is order 12345?",
+    "assistant_behavior": "Call get_order_status and report only verified fields."
+  },
+  {
+    "user": "Refund order 12345",
+    "assistant_behavior": "Retrieve policy, prepare proposal, require explicit human approval."
+  }
+]

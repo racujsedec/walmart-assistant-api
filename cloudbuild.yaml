@@ -1,0 +1,5 @@
+steps:
+- name: gcr.io/cloud-builders/docker
+  args: ['build','-t','${_IMAGE}', '.']
+images: ['${_IMAGE}']
+# Set _IMAGE in Cloud Build trigger; this only builds/pushes, not deploys.

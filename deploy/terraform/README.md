@@ -1,0 +1,1 @@
+Terraform GCP provisioning requires project IDs, state backend, IAM review, VPC, Artifact Registry, GKE/Cloud Run selection, Cloud SQL, Secret Manager and monitoring. No fake deploy-ready infrastructure is included.
