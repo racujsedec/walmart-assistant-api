@@ -1,7 +1,0 @@
-# Install only when exercising the optional integrations
-mcp>=1,<3
-confluent-kafka>=2,<4
-opentelemetry-api>=1,<2
-opentelemetry-sdk>=1,<2
-opentelemetry-instrumentation-fastapi>=0.48b0
-opentelemetry-exporter-otlp-proto-http>=1,<2

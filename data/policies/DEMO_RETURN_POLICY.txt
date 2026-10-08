@@ -1,3 +1,0 @@
-DEMONSTRATION ONLY — NOT WALMART POLICY.
-A refund requires verifying order eligibility using the authorized returns service.
-The assistant may recommend review but must never submit a refund without an authenticated associate's explicit confirmation and an idempotent backend action.
