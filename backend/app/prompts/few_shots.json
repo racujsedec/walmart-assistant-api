@@ -1,0 +1,1 @@
+[{"user":"Where is order 12345?","expected_tool":"get_order_status","arguments":{"order_id":"12345"}},{"user":"Where is my order?","expected_behavior":"ask for order ID; do not invent it"}]
